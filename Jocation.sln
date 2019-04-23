@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jocation", "Jocation\Jocation.csproj", "{D3FE6B61-C318-4D70-9253-0FC075277823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FE6B61-C318-4D70-9253-0FC075277823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FE6B61-C318-4D70-9253-0FC075277823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FE6B61-C318-4D70-9253-0FC075277823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FE6B61-C318-4D70-9253-0FC075277823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F33814-04CC-417C-9C23-55B5B001A486}
+	EndGlobalSection
+EndGlobal
